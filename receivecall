@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say voice="alice">Hello! You have reached the test line. Have a great day!</Say>
+  <Pause length="40"/>
+  <Hangup/>
+</Response>
