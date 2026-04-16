@@ -4,5 +4,7 @@
   <Pause length="5"/>
   <Say voice="alice">You have successfully connected to emergency services. This is an automated response.</Say>
   <Pause length="5"/>
+  <Say voice="alice">This is the last automated response and you will be disconnected after this message, thank you.</Say>
+    <Pause length="3"/>
   <Hangup/>
 </Response>
